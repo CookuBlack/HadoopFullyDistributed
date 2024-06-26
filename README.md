@@ -1,2 +1,2 @@
 # HadoopFullyDistributed
-Hadoop完全分布式搭建教程
+Hadoop完全分布式搭建教程，笔者在大学期间有关Hadoop的学习与记录。
