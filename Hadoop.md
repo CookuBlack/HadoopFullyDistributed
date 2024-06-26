@@ -6,7 +6,7 @@
 
 **VM VirtualBox**官网下载地址：[Downloads – Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-![6c3957d4f6ef475afd5462fc6ba1bd6](.\Asset\6c3957d4f6ef475afd5462fc6ba1bd6.png)
+![6c3957d4f6ef475afd5462fc6ba1bd6](./Asset/6c3957d4f6ef475afd5462fc6ba1bd6.png)
 
 由于最新的版本的软件安装位置只能是系统盘下，为了额外占用系统盘的空间，我使用历史版本：`7.0.12`
 
