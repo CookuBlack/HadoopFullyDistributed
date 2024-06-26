@@ -1,0 +1,2 @@
+# HadoopFullyDistributed
+Hadoop完全分布式搭建教程
